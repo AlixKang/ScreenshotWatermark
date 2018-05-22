@@ -20,7 +20,7 @@
     CGFloat g = (random() % 255) / 255.0;
     CGFloat b = (random() % 255) / 255.0;
     
-    while (r > 0.9 && g > 0.9 & b > 0.9) {
+    while (r > 0.9 && g > 0.9 && b > 0.9) {
         r = (random() % 255) / 255.0;
         g = (random() % 255) / 255.0;
         b = (random() % 255) / 255.0;
